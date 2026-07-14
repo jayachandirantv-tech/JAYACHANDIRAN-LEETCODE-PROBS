@@ -18,6 +18,7 @@ The repository for the Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -37,6 +38,7 @@ The repository for the Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -63,4 +65,12 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0300-longest-increasing-subsequence) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
