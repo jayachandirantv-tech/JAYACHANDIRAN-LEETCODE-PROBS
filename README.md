@@ -18,6 +18,7 @@ The repository for the Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0054-spiral-matrix) |
@@ -44,6 +45,7 @@ The repository for the Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -73,6 +75,7 @@ The repository for the Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
