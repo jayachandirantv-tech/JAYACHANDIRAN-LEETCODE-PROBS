@@ -15,16 +15,11 @@ public:
         }
        }
        int a,b;
-      if (esum > odsum)
-    {
+     
     a = esum;
     b = odsum;
-    }
-    else
-    {
-    a = odsum;
-    b = esum;
-     }
+    
+    
        while(b!=0)
        {
         int rem=a%b;
