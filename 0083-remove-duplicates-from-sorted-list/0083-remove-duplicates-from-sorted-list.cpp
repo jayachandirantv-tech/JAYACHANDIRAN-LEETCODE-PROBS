@@ -23,10 +23,6 @@ public:
             {
                prev->next=curr->next;
                curr=prev->next;
-               if(prev!=nullptr)
-               {
-               curr=prev->next;
-                }
             }
             else
             {
