@@ -1,42 +1,38 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int N=s.size();
-        string t='1' + s + '1';
-        int totalones=0;
-
-        for(int in=0;in<s.size();in++)
+       string t='1' + s + '1';
+       vector<pair<char,int>>blocks;
+       int count=1;
+       int totalcount=0;
+       for(int in=0;in<s.size();in++)
+       {
+        if(s[in]=='1')
         {
-            if(s[in]=='1')
-            {
-                totalones++;
-            }
+            totalcount++;
         }
-        int ans=totalones;
-        vector<pair<char,int>>blocks;
-        int count=1;
-        for(int in=1;in<t.size();in++)
+       }
+       int ans=totalcount;
+       for(int in=1;in<t.size();in++)
+       {
+        if(t[in]==t[in-1])
         {
-            if(t[in]==t[in-1])
-            {
-                count++;
-            }
-            else
-            {
-                blocks.push_back({t[in-1],count});
-                count=1;
-            }
+              count++;
         }
-        for(int in=1;in<blocks.size();in++)
+        else
         {
-            if(blocks[in].first=='1' && blocks[in-1].first=='0' &&blocks[in+1].first=='0')
-            {
-                int temp=totalones+blocks[in-1].second+blocks[in+1].second;
-
-                 ans=max(ans,temp);   
-            }
-        
+            blocks.push_back({t[in-1],count});
+            count=1;
         }
-        return ans;
+       }
+       for(int in=1;in<blocks.size();in++)
+       {
+        if(blocks[in].first=='1' && blocks[in-1].first=='0' && blocks[in+1].first=='0')
+        {
+            int temp=totalcount+blocks[in-1].second+blocks[in+1].second;
+            ans=max(temp,ans);
+        }
+       }
+    return ans;
     }
 };
