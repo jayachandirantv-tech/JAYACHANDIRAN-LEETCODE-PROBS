@@ -25,6 +25,7 @@ public:
             count=1;
         }
        }
+       blocks.push_back({t.back(),count});
        for(int in=1;in<blocks.size();in++)
        {
         if(blocks[in].first=='1' && blocks[in-1].first=='0' && blocks[in+1].first=='0')
