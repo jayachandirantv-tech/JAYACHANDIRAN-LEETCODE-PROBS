@@ -50,6 +50,7 @@ The repository for the Leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0120-triangle) |
@@ -93,6 +94,7 @@ The repository for the Leetcode Problems
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -108,6 +110,7 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
