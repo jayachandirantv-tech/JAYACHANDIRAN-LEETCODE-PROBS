@@ -24,9 +24,8 @@ public:
         */
         for(int in=0;in<freq.size();in++){
            if(size>=8){
-            size=size/8;
+            size=size%8;
             count++;
-            size--;
            }
            sum+=(freq[in]*count);
            size++;
