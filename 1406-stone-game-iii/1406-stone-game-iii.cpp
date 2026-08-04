@@ -11,7 +11,6 @@ class Solution {
        int ans=INT_MIN;
        while(ind<N && ind+in<=N && in<=3){
         temp+=stonevalues[ind+in-1];
-        memo[ind]=ans;
         ans=max(ans,temp-solve(stonevalues,ind+in,N,memo));
         in++;
        }
