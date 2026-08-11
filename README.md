@@ -133,6 +133,7 @@ The repository for the Leetcode Problems
 | [0022-generate-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -248,4 +249,8 @@ The repository for the Leetcode Problems
 | ------- |
 | [1140-stone-game-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1406-stone-game-iii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
