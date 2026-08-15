@@ -263,4 +263,8 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
