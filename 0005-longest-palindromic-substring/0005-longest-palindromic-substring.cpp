@@ -1,46 +1,47 @@
 class Solution {
 public:
     string longestPalindrome(string s) { 
-        if(s.empty()){
-            return "";
-        }
-     int N=s.size();
-     int curr=1;
-     string res(1,s[0]);
-     int maxlen=1;
-     while(curr<N){
-        string temp(1,s[curr]);
-        string temp2;
-        int left=curr-1;
-        int right=curr+1;
-        int eleft=curr-1;
-        
-              while(left>=0 && right<N && s[left]==s[right])
-              {
-                temp=s[left]+temp;
-                temp=temp+s[right];
-                left--;
-                right++;
-                if(right-left-1>maxlen){
-                    maxlen=(right-left-1);
-                    res=temp;
-                }
-              }
-            
-            right=curr;
-            left=curr-1;
-            while(right<N && left>=0 && s[left]==s[right]){
-                temp2=s[left]+temp2;
-                temp2+=s[right];
-                left--;
-                right++;
-                if(right-left-1>maxlen){
-                    maxlen=right-left-1;
-                    res=temp2;
-                }
+       int N=s.size();
+       if(N==0){
+        return "";
+       }
+       if(N==1){
+        return s;
+       }
+       string res(1,s[0]);
+       int curr=1;
+       int maxlen=0;
+       while(curr<N){
+        // for the odd palindrome string like ava
+         int left=curr-1;
+         int right=curr+1;
+         string temp(1,s[curr]);
+         while(left>=0 && right<N && s[left]==s[right]){
+            temp=s[left]+temp;
+            temp=temp+s[right];
+            right++;
+            left--;
+            if(maxlen<right-left-1){
+                res=temp;
+                maxlen=right-left-1;
             }
-               curr++;
-              }
-     return res;
+         }
+         // for even palindrome string aa
+         right=curr;
+         left=curr-1;
+         string evtemp;
+         while(left>=0 && right<N && s[left]==s[right]){
+            evtemp=evtemp+s[right];
+            evtemp=s[left]+evtemp;
+            right++;
+            left--;
+            if(right-left-1>maxlen){
+                maxlen=right-left-1;
+                res=evtemp;
+            }
+         }
+         curr++;
+       }
+       return res;
     }
 };
