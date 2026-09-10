@@ -135,6 +135,7 @@ The repository for the Leetcode Problems
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0682-baseball-game) |
@@ -249,6 +250,7 @@ The repository for the Leetcode Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
@@ -320,4 +322,12 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
