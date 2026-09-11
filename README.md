@@ -61,6 +61,7 @@ The repository for the Leetcode Problems
 | [0735-asteroid-collision](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0904-fruit-into-baskets) |
+| [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
 | [1140-stone-game-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1386-cinema-seat-allocation) |
@@ -200,6 +201,7 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0054-spiral-matrix) |
+| [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
@@ -258,12 +260,14 @@ The repository for the Leetcode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0547-number-of-provinces) |
+| [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0547-number-of-provinces) |
+| [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
