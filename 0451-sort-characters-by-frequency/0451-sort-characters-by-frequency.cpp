@@ -16,9 +16,7 @@ public:
         while(!q.empty()){
             auto[occur,ch]=q.top();
             q.pop();
-            for(int in=0;in<occur;in++){
-                  res+=ch;
-            }
+           res+=string(occur,ch);
         }
     return res;
     }
