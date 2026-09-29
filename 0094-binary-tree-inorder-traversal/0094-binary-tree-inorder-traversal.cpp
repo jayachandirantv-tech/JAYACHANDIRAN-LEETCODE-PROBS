@@ -10,15 +10,15 @@
  * };
  */
 class Solution {
-    vector<int>res;
-    void dfs(TreeNode* root){
-        if(!root){
-            return;
-        }
-        dfs(root->left);
-        res.push_back(root->val);
-        dfs(root->right);
+ vector<int>res;
+ void dfs(TreeNode* root){
+    if(!root){
+        return;
     }
+    dfs(root->left);
+    res.push_back(root->val);
+    dfs(root->right);
+ }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         dfs(root);
