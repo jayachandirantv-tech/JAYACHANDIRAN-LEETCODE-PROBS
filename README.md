@@ -84,6 +84,7 @@ The repository for the Leetcode Problems
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -113,6 +114,7 @@ The repository for the Leetcode Problems
 | [1140-stone-game-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -259,6 +261,7 @@ The repository for the Leetcode Problems
 | [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0994-rotting-oranges) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
@@ -441,4 +444,5 @@ The repository for the Leetcode Problems
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
