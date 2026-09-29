@@ -3,20 +3,17 @@ public:
     int countHomogenous(string s) {
     int N=s.size();
     vector<long long>prefsum(s.size()+1);
-    prefsum[0]=0;
-    for(int in=1;in<=N;in++){
-        prefsum[in]=in+prefsum[in-1];
-    }
     long long sum=0;
+    long long count=0;
+    const int MOD = 1000000007;
      for(int in=0;in<N;in++){
-        int itr=in+1;
-        int count=1;
-        while(itr<N && s[itr]==s[in]){
-           count++;
-           itr++;
+        if(in>0 && s[in]==s[in-1]){
+            count++;
         }
-      sum=(sum+prefsum[count])%1000000007;
-      in=itr-1;
+        else{
+            count=1;
+        }
+        sum=(sum+count)%MOD;
      }
      return sum;
     }
