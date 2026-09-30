@@ -2,31 +2,30 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int N=s.size();
-        int close=0;
-        int open=0;
+        // if we change the * to the ) close symbol the minimum unbalance decreases so we use this
+        int mn=0;
+        // similarly if we change the * to ( then the unbalace increases so we use this
+        int mx=0;
         for(int in=0;in<N;in++){
             if(s[in]=='('){
-                close++;
-                open++;
+                mn++;
+                mx++;
             }
             else if(s[in]==')'){
-                close--;
-                open--;
+                mn--;
+                mx--;
             }
             else{
-                close--;
-                open++;
+                mx++;
+                mn--;
             }
-            if(close<0){
-             close=0;
+            if(mn<0){
+                mn=0;
             }
-            if(open<0) return false;
+            if(mx<0){
+                return false;
+            }
         }
-        if(close==0){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return mn==0;
     }
 };
