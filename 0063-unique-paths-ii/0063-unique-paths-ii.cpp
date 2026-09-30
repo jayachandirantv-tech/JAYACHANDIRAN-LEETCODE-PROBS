@@ -17,16 +17,10 @@ public:
                 if(r>0  && c>0){
                     dp[r][c]=dp[lr][lc]+dp[ur][uc];
                    }
-                   else if(r==0){
-                    if(c==0){
-                        continue;
-                    }
+                   else if(r==0 && c>0){
                     dp[r][c]=dp[lr][lc];     
                    }
-                   else if(c==0){
-                    if(r==0){
-                        continue;
-                    }
+                   else if(c==0 && r>0){
                     dp[r][c]=dp[ur][uc];
                    }
                 }
