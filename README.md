@@ -236,6 +236,7 @@ The repository for the Leetcode Problems
 | [0300-longest-increasing-subsequence](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 ## String
 |  |
@@ -328,6 +329,7 @@ The repository for the Leetcode Problems
 | [1248-count-number-of-nice-subarrays](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1406-stone-game-iii) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3345-smallest-divisible-digit-product-i) |
