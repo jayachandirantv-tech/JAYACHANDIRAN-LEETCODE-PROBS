@@ -67,10 +67,6 @@ class Solution {
 
 public:
     vector<string> removeInvalidParentheses(string s) {
-        unmatchopen = 0;
-        unmatchclose = 0;
-        temp.clear();
-        res.clear();
         tofind(s);
         gen(s,0,0);
         vector<string>ans;
