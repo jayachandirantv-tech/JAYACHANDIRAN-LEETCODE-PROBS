@@ -369,6 +369,7 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -379,6 +380,7 @@ The repository for the Leetcode Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0547-number-of-provinces) |
 | [0934-shortest-bridge](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0934-shortest-bridge) |
@@ -457,6 +459,7 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
@@ -465,6 +468,7 @@ The repository for the Leetcode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0145-binary-tree-postorder-traversal) |
