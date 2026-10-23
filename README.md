@@ -100,6 +100,7 @@ The repository for the Leetcode Problems
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -235,6 +236,7 @@ The repository for the Leetcode Problems
 | [0078-subsets](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1386-cinema-seat-allocation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
