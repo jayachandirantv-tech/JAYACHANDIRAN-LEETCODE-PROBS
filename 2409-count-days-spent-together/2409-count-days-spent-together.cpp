@@ -29,14 +29,15 @@ public:
         // Convert month and day into a comparable day number
         int days[] = {0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
 
-        int aliceStart = days[astm - 1] + astdt;
-        int aliceEnd = days[aem - 1] + aedt;
-        int bobStart = days[bstm - 1] + bstdt;
-        int bobEnd = days[bem - 1] + bedt;
+       int alicest=days[astm-1]+astdt;
+       int aliceend=days[aem-1]+aedt;
+       int bobst=days[bstm-1]+bstdt;
+       int bobed=days[bem-1]+bedt;
+       
+       int start=max(alicest,bobst);
+       int end=min(aliceend,bobed);
 
-        int start = max(aliceStart, bobStart);
-        int end = min(aliceEnd, bobEnd);
-
-        return max(0, end - start + 1);
+       int fin=max(0,end-start+1);
+       return fin;
     }
 };
