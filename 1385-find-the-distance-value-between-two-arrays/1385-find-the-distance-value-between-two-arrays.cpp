@@ -4,20 +4,17 @@ public:
        int N1=arr1.size();
        int N2=arr2.size();
        int count=0;
-       int tempcount=0;
+       bool found=true;
        for(int in=0;in<N1;in++){
         for(int itr=0;itr<N2;itr++){
             if(abs(arr1[in]-arr2[itr])<=d){
-               break;
-            }
-            else{
-                tempcount++;
+               found=false;
             }
         }
-        if(tempcount==N2){
-            count++;
+        if(found==true){
+          count++;
         }
-        tempcount=0;
+        found=true;
        } 
        return count;
     }
