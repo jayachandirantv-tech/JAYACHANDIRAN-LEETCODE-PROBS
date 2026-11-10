@@ -94,6 +94,7 @@ The repository for the Leetcode Problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -170,6 +171,7 @@ The repository for the Leetcode Problems
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2094-finding-3-digit-even-numbers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -441,6 +443,7 @@ The repository for the Leetcode Problems
 | ------- |
 | [0274-h-index](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/0451-sort-characters-by-frequency) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jayachandirantv-tech/JAYACHANDIRAN-LEETCODE-PROBS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
