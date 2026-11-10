@@ -11,9 +11,7 @@ public:
         int target=k+nums[in];
         if(mp[target]>0){
             count+=mp[target];
-            if(target==nums[in]){
-                count--;
-            }
+          
         }
        }
        return count;
